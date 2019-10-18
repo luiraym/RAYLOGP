@@ -232,7 +232,7 @@ def ContinuityIndex(
 	def Tanimoto(molecule1, molecule2):
 		return (Both(molecule1,molecule2)) / (One(molecule1) + One(molecule2) - Both(molecule1,molecule2))
 	
-	def Cosine(Molecule1, Molecule2):
+	def Cosine(molecule1, molecule2):
 		return (Both(molecule1,molecule2)) / np.sqrt(One(molecule1) * One(molecule2))   
 	
 	
