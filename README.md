@@ -1,5 +1,5 @@
 # RAYLOGP
-A physicochemical descriptor-based method for the estimation of the octanol-water partition coefficient, logP, submitted for the 2019 SAMPL6 LogP Prediction Challenge.
+A physicochemical descriptor-based method for the estimation of the octanol-water partition coefficient, logP, submitted for the 2019 SAMPL6 LogP Prediction Challenge (https://github.com/samplchallenges/SAMPL6/tree/master/physical_properties/logP).
 
 This repository contains the experimental files used to compare different molecular representations to determine the one most suitable for modelling logP quantitative structure-property relationships.
 
