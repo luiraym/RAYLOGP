@@ -1,0 +1,27 @@
+********** RAYLOGP **********     
+
+
+> Python v3.6.8 |Intel Corporation| (default, Apr 12 2019, 17:34:58) 
+[GCC 4.8.2 20140120 (Red Hat 4.8.2-15)]
+> NumPy v1.16.4
+> pandas v0.22.0
+> scikit-learn v0.20.3
+
+
+> Training set loaded: 14045 molecules, 1438 features
+> Benchmarking set loaded: 707 molecules, 1438 features
+> Test set (SAMPL6) loaded: 11 molecules, 1438 features
+
+
+> Physicochemical data scaled in 0.27044 seconds
+> RAYLOGP trained in 0.00000 seconds
+
+
+> RAYLOGP predicted in 2.87 seconds
+1.0272204358397463
+> SAMPL6 logP predicted in 2.83 seconds
+0.4914811087795584
+
+
+********** RAYLOGP execution complete ********** (Duration: 14.680983781814575)
+
