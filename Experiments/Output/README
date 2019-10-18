@@ -1,1 +1,6 @@
+~Temporary README~
 
+Outputs of the experimental Python scripts:
+> Structure-lipophilicity landscape continuity indices
+> Raw RMSE values of multilinear regressions based on different molecular representations + average and 95%CI
+> Tabulated and graphed RMSE values
