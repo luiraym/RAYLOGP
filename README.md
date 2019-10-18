@@ -3,4 +3,4 @@ A physicochemical descriptor-based method for the estimation of the octanol-wate
 
 This repository contains the experimental files used to compare different methods of representing a molecule in-silico to effectively represent a chemical space for correlation with logP via quantitative structure-property relationships (QSPRs).
 
-The overall best model, codenamed 'RAYLOGP', was used to generate predictions for 11 protein kinase inhibitor fragment-like molecules as part of the SAMPL6 Challenge. Our submission ID was 'hdpuj' and produced an RMSE of 0.49 log units, placing 7th overall and 3rd amongst emiprical methods.
+The overall best model, codenamed 'RAYLOGP', was used to generate predictions for 11 protein kinase inhibitor fragment-like molecules as part of the SAMPL6 Challenge. Our submission ID was 'hdpuj' and produced an RMSE of 0.49 log units, placing 8th overall and 3rd amongst emiprical methods.
